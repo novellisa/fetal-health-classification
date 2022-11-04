@@ -4,7 +4,7 @@
 
 This is a mid-term project for the 2022 ml-zoomcamp held by Alexey Grigorev. 
 
-The goal of this project is to classify fetal health based on records extracted from Cardiotocograms (CTGs), i.e. instruments measuring _e.g._ fetal heart rate, fetal movements, et c, via ultrasound pulses. 
+The goal of this project is to classify fetal health based on records extracted from Cardiotocograms (CTGs), i.e. instruments measuring _e.g._ fetal heart rate, fetal movements, _etc._, via ultrasound pulses. 
 Fetal health has been classified by expert obstetritians into 3 classes:
 - Normal
 - Suspect
