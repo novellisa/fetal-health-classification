@@ -10,7 +10,7 @@ Fetal health has been classified by expert obstetritians into 3 classes:
 - Suspect (Class 2)
 - Pathological (Class 3)
 
-The goal of this project is to build a multiclass classification model allowing to categorize each fetus' health into one of the above three classes.
+The goal of this project is to build a multiclass classification model allowing to categorize each fetus' health into one of the above three classes. This is achieved using a Random Forest classifier.
 
 ## Dataset
 
